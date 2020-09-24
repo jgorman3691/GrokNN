@@ -4,5 +4,7 @@
   "editor.autoClosingBrackets": "always",
   "editor.fastScrollSensitivity": 8,
   "editor.lineNumbers": "on"
- // "editor.tokenColorCustomizations": "none"
+  "editor.tokenColorCustomizations": {
+    "comments": #AAAAAA
+  }
 }
