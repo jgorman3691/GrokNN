@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "MQTT",
+			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\MQTT"
+		},
+		{
+			"name": "ESP32Test",
+			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\ESP32Test"
+		},
+		{
+			"name": "200921-213431-espidf-hello-world",
+			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\200921-213431-espidf-hello-world"
+		}
+	],
+	"settings": {
+		"rust.build_on_save": true,
+		"bladeFormatter.format.indentSize": 2,
+		"editor.tabSize": 2,
+		"julia.format.indent": 2,
+		"html.format.indentInnerHtml": true,
+		"editor.wordWrapColumn": 120,
+		"editor.fastScrollSensitivity": 8,
+		"python.dataScience.jupyterServerURI": "https://hostname:8080/?token=8c4a8458f010c62b86fa5fafa746b8037b31e70f7da91f75",
+		"idf.espIdfPathWin": "C:\\Espressif\\esp-idf-v4.0.1",
+		"synthwave84.brightness": 0.85,
+		"platformio-ide.autoCloseSerialMonitor": false,
+		"idf.portWin": "COM3"
+	}
+}

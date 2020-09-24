@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 120,
+  "editor.autoClosingBrackets": "always",
+  "editor.fastScrollSensitivity": 8,
+  "editor.lineNumbers": "on"
+ // "editor.tokenColorCustomizations": "none"
+}
