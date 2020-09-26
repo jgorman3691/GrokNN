@@ -24,7 +24,7 @@
 		"html.format.indentInnerHtml": true,
 		"editor.wordWrapColumn": 120,
 		"editor.fastScrollSensitivity": 8,
-		"python.dataScience.jupyterServerURI": "local",
+		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=c9d7fc973691ddb8448b32b4a90355c257ff343b0c3796ae",
 		"idf.espIdfPathWin": "C:\\Espressif\\esp-idf-v4.0.1",
 		"synthwave84.brightness": 0.85,
 		"platformio-ide.autoCloseSerialMonitor": false,
