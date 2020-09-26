@@ -14,6 +14,9 @@
 		{
 			"name": "200921-213431-espidf-hello-world",
 			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\200921-213431-espidf-hello-world"
+		},
+		{
+			"path": "..\\Website"
 		}
 	],
 	"settings": {
