@@ -2,21 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "MQTT",
-			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\MQTT"
-		},
-		{
-			"name": "ESP32Test",
-			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\ESP32Test"
-		},
-		{
-			"name": "200921-213431-espidf-hello-world",
-			"path": "..\\..\\OneDrive\\Documents\\PlatformIO\\Projects\\200921-213431-espidf-hello-world"
-		},
-		{
-			"path": "..\\Website"
 		}
 	],
 	"settings": {
@@ -27,7 +12,7 @@
 		"html.format.indentInnerHtml": true,
 		"editor.wordWrapColumn": 120,
 		"editor.fastScrollSensitivity": 8,
-		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=c9d7fc973691ddb8448b32b4a90355c257ff343b0c3796ae",
+		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=75fb1e66c22518a5d587e37f5c8f77d16c5b07411deb0977",
 		"idf.espIdfPathWin": "C:\\Espressif\\esp-idf-v4.0.1",
 		"synthwave84.brightness": 0.85,
 		"platformio-ide.autoCloseSerialMonitor": false,
