@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\ProgramData\\chocolatey\\lib\\bazel"
 		}
 	],
 	"settings": {
@@ -12,7 +15,7 @@
 		"html.format.indentInnerHtml": true,
 		"editor.wordWrapColumn": 120,
 		"editor.fastScrollSensitivity": 8,
-		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=027be9dd84063050c63ca5f1b5707fc0fc096ee05db2eb5d",
+		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=1b7b71ac3506d7a0972aa0fc6bd8918ac930281b7d8848e8",
 		"idf.espIdfPathWin": "C:\\Espressif\\esp-idf-v4.0.1",
 		"synthwave84.brightness": 0.85,
 		"platformio-ide.autoCloseSerialMonitor": false,
